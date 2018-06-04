@@ -88,6 +88,11 @@ h2 {
   margin: 50px 110px;
 }
 
+#contactimg {
+  float: left;
+  margin: 0px 110px;
+}
+
 a {
   text-decoration: none;
   color: #c8b170;
